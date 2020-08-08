@@ -2,7 +2,7 @@
 
 ## This is the mobile version of Proffy
 
-<p align="center">🚀 App for students to look for teachers available to give classes</p
+🚀 App for students to look for teachers available to give classes
 
 ### Installation required
 
